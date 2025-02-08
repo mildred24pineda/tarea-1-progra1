@@ -18,6 +18,4 @@ Además de los beneficios directos de GitHub, este paquete nos da acceso gratuit
 #📈 5. Mejora nuestra empleabilidad y portafolio
 Hoy en día, GitHub es clave en el mundo de la programación 🌍 . Tener GitHub Pro y todas sus funciones nos ayuda a construir un portafolio profesional sólido 📂 , con proyectos bien organizados y documentados, lo que nos da una ventaja al buscar empleo o aplicar a pasantías 💼 .
 
-#🎯 Conclusión
-Los beneficios de GitHub for Students son extremadamente valiosos 💎 , porque nos brindan acceso a herramientas de primer nivel, nos permiten mejorar nuestras habilidades, colaborar con otros desarrolladores y nos preparan mejor para el mundo profesional. ¡Es una oportunidad que todo estudiante de tecnología debería aprovechar al máximo! 🚀🔥
 
